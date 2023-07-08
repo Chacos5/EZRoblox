@@ -29,6 +29,8 @@ Write-Host -ForegroundColor Green "
 $resourceDir = Get-Location # Define what the root directory of the script is to allow access to the image files
 Write-Host -ForegroundColor Green "Resource directory is: "$resourceDir 
 
+New-Item $resourceDir\temp -Force | Out-Null
+
 Write-Host -ForegroundColor Green "Running Roblox FPS unlocker downloader"
 
 Invoke-Expression -Command .\data\FPSUnlockerDownload.ps1 # Before running anything run the FPS unlocker script
