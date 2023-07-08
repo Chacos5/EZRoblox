@@ -3,13 +3,6 @@
 A simple and quick powershell script designed to set a custom crosshair for your roblox client as well as download, extract, and run the latest version of Roblox FPS unlocker (https://github.com/axstin/rbxfpsunlocker).
 By default it sets a higher contrast cursor but that can always be changed (explained below).
 
-## Contents
-[- Usage](https://github.com/Chacos5/EZRoblox#usage)
-
-[- Running it](https://github.com/Chacos5/EZRoblox#running-the-actual-script)
-
-[- Important notes](https://github.com/Chacos5/EZRoblox#running-the-actual-script#important-notes-and-extras)
-
 
 # Usage:
 Before doing anything you ***must*** enable running powershell scripts or Windows ***will*** complain becuase the code is unsigned. If you whish you can sign it yourself to keep a more secured system.
