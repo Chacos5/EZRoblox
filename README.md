@@ -6,7 +6,7 @@ By default it sets a higher contrast cursor but that can always be changed (expl
 # [Download](https://github.com/Chacos5/EZRoblox/archive/refs/heads/main.zip)
 
 # Usage:
-Before doing anything you ***must*** enable running powershell scripts or Windows ***will*** complain becuase the code is unsigned. If you whish you can sign it yourself to keep a more secured system.
+Before doing anything you ***must*** enable running powershell scripts or Windows ***will*** complain becuase the code is unsigned. If you wish you can sign it yourself to keep a more secured system.
 
 To do this open an elevated powershell terminal (as admin)  (`Win + X` then `Shift + A`)
 
