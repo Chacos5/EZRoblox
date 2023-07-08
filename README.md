@@ -17,6 +17,7 @@ Then run the following command:<br>
 To run the script you ***must*** execute it from the directory the script is located in. That directory should contain all of the other supporting files for the script or else it wont work. Lazy coding, yes. Works, also yes.
 
 Either right click the script and hit run or set up your computer to auto run scripts when you double click them. The script should run without any user input needed and will prompt you to hit enter when it finishes.
+***Note: Powershell may ask you if you are sure you want to run a "script from the internet" in order for the script to work you have to accept by pressing `r`***
 
 If you change any FPS unlocker settings it should save in a file called `settings` in the root of the folder.
 
